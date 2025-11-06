@@ -54,3 +54,9 @@ phonopy-bandplot --gnuplot band.yaml > band.txt
 
 ### 3. Simulations of Other Properties  
 Simulations for other material properties (e.g., mechanical, thermal) are performed using LAMMPS. Relevant input scripts and configuration files can be found in the corresponding directories.
+
+
+# Please attention 
+
+Due to the large size of the dataset, the data is stored in the following link. Thank you.
+Fang, Guoyong. (2025). Machine Learning Potentials for Property Predictions of Two-Dimensional Group-III Nitrides [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17538311
