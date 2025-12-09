@@ -64,7 +64,7 @@ Fang, Guoyong. (2025). Machine Learning Potentials for Property Predictions of T
 
 Please cite the following work if you want to use our work.
 
-'''
+'''bash
 @article{Cao2025,
   title = {Machine Learning Potentials for Property Predictions of Two-Dimensional Group-III Nitrides},
   author = {Jian Cao, Chang Liu, Danling Wang, Haichao Li, Lina Xu, Hongping Xiao, Shaoqi Zhan, Xiao He, Guoyong Fang,},
