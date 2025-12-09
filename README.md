@@ -60,3 +60,20 @@ Simulations for other material properties (e.g., mechanical, thermal) are perfor
 
 Due to the large size of the dataset, the data is stored in the following link. Thank you.
 Fang, Guoyong. (2025). Machine Learning Potentials for Property Predictions of Two-Dimensional Group-III Nitrides [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17538311
+# How to cite
+
+Please cite the following work if you want to use our work.
+
+'''
+@article{Cao2025,
+  title = {Machine Learning Potentials for Property Predictions of Two-Dimensional Group-III Nitrides},
+  author = {Jian Cao, Chang Liu, Danling Wang, Haichao Li, Lina Xu, Hongping Xiao, Shaoqi Zhan, Xiao He, Guoyong Fang,},
+  journal = {Acta Physico-Chimica Sinica},
+  year = {2025},
+  note = {in press},
+  doi = {10.1016/j.actphy.2025.100224},
+  url = {https://doi.org/10.1016/j.actphy.2025.100224}
+}
+'''
+
+
